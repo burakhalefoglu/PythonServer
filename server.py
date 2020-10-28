@@ -1,20 +1,7 @@
 import socket
-#from flask import Flask, render_template
 
-host = "104.197.76.207"
-port = 6060
-
-#app = Flask(__name__)
-
-
-#if __name__ == "__main__":
-##    app.run()
-    
-
-#@app.route("/")
-#def index():
-#  return render_template("index.html")
-
+host = gethostbyname("https://appneuron.azurewebsites.net")
+port = 8080
 
 
 
