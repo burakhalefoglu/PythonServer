@@ -1,6 +1,6 @@
 import socket
 
-host = gethostbyname("https://appneuron.azurewebsites.net")
+host = gethostbyname("https://localhost:3000/")
 port = 8080
 
 
